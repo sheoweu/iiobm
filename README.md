@@ -6,7 +6,7 @@
 
 ## 推荐使用虚拟信用卡开卡平台
 
-推荐一个虚拟信用卡开卡平台，包含香港、美国万事达 VISA 等多种卡头，0 月费使用门槛极低，微信支付宝均可开通使用。支持开通各类海外平台：ChatGPT、Netflix、OnlyFans、Ebay、Shopify、Github、TikTok、Paypal 等各类订阅海淘平台。点击查看详情：[https://www.fomepay.com/](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+推荐一个虚拟信用卡开卡平台，包含香港、美国万事达 VISA 等多种卡头，0 月费使用门槛极低，微信支付宝均可开通使用。支持开通各类海外平台：ChatGPT、Netflix、OnlyFans、Ebay、Shopify、Github、TikTok、Paypal 等各类订阅海淘平台。点击查看详情：[https://www.dupay.one/](https://dupay.one/web-app/register-h5?invitCode=YgvuDG&lang=zh-cn)
 
 ## ChatGPT Plus 的优势
 
@@ -59,3 +59,4 @@ ChatGPT Plus 提供了一系列高级功能，包括更快的响应速度、更�
 如需取消订阅，可以在 App Store 中进入“账户”页面，找到“订阅”选项，然后选择取消 ChatGPT Plus 订阅。取消后，您仍可以使用已支付期间内的服务。
 
 通过以上步骤，您可以轻松使用 Apple 礼品卡订阅和充值 ChatGPT Plus，享受更多高级功能和服务。如有任何问题，欢迎随时联系 ChatGPT 客服团队获取帮助。
+
